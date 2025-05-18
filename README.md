@@ -1,3 +1,4 @@
+![Portada](A_flat,_digital_graphic_design_showcases_a_cover_o.png)
 # 🔊 Flask TTS API – Texto a Voz
 
 API RESTful desarrollada con **Flask** y **gTTS** que convierte texto en audio y devuelve un archivo `.mp3`.
